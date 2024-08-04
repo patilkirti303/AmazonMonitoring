@@ -1,0 +1,6 @@
+<dependencies>
+    <dependency>
+        <groupId>org.seleniumhq.selenium</groupId>
+        <artifactId>selenium-java</artifactId>
+        <version>4.0.0</version> <!-- Use the latest version -->
+    </dependency>
